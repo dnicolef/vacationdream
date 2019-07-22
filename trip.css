@@ -1,0 +1,64 @@
+
+body {
+background-color:rgb(104, 160, 129);
+width : 80%;
+margin: auto;
+
+border: 4px outset rgb(133, 14, 73);
+text-align:center;
+}
+p {
+  font-family:Arial;
+  margin: 5px;
+  
+}
+.quote {
+    text-align: center;
+}
+
+.title {
+  text-align:center;
+  color:rgb(210,75,145);
+  
+  text-shadow: 3px 2px rgb(75, 102, 151);
+  font-family: sans-serif;
+}
+img {
+    border-radius:10px;
+    box-shadow: 10px 10px rgb(236, 136, 41);
+    width: 300px;
+    height: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color:rgb(182, 33, 45);
+}
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+h2.destination {
+  font-family:cursive;
+  text-align:center;
+}
+ul {
+  list-style:none;
+}
+.description h5 {
+  color:rgb(114, 51, 111);
+  text-align:center;
+}
+.footer {
+  font-style: italic;
+  border: 3px solid rgb(250, 53, 129);
+}
